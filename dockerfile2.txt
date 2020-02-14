@@ -7,7 +7,7 @@
 # Pull base image.
 FROM debian:latest
 
-MAINTAINER hihouhou < hihouhou@hihouhou.com >
+MAINTAINER Meridian Security Engineering
 
 
 #Update & install packages for installting add-apt-repository
