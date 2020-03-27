@@ -4,6 +4,7 @@ MAINTAINER beardyjay <jay@beardyjay.co.uk>
 RUN apk add --update \
   git \
   python \
+  python3 \
   py-pip \
   gcc \
   libxml2-dev \
